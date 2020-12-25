@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Suprunov-v-4"
